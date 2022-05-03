@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "MVVMLab (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "MVVMLab (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
